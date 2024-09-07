@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTracker.Web", "TimeTracker.Web\TimeTracker.Web.csproj", "{FBD7BD89-B579-4BE0-BF10-996FF0C81BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeTracker.Data", "TimeTracker.Data\TimeTracker.Data.csproj", "{959B8096-37C5-44EB-88BB-3FF8C6254A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD7BD89-B579-4BE0-BF10-996FF0C81BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBD7BD89-B579-4BE0-BF10-996FF0C81BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBD7BD89-B579-4BE0-BF10-996FF0C81BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBD7BD89-B579-4BE0-BF10-996FF0C81BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959B8096-37C5-44EB-88BB-3FF8C6254A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959B8096-37C5-44EB-88BB-3FF8C6254A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959B8096-37C5-44EB-88BB-3FF8C6254A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959B8096-37C5-44EB-88BB-3FF8C6254A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
